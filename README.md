@@ -78,8 +78,7 @@ that the website was working correctly.
 📸 Screenshots
 
 EC2 Instance
-
-![EC2 Instance](screenshots/01-ec2-instance.png)
+![alt text](01-ec2-instance.png.png)
 
 Security Group
 
