@@ -20,8 +20,8 @@ an AWS EC2 instance and make it accessible over the internet.
 
 🏗️ Architecture
 
-![Architecture](12-architecture.png.png
-)
+![alt text](12-architecture.png.png)
+
 
 Architecture Flow
 
@@ -81,16 +81,20 @@ EC2 Instance
 ![alt text](01-ec2-instance.png.png)
 
 Security Group
+/Users/shreyanshsingh/Downloads/AWS EC2 Project/02-security-group.png.png
 
-![Security Group](screenshots/02-security-group.png)
+SSH Login 
+![alt text](03-ssh-login.png)
 
-Nginx Status
+Ubuntu Update
+![alt text](<04-Ubuntu update.png>)
 
-![Nginx Status](screenshots/nginx-status.png)
+Nginx-Install
+![alt text](05-nginx-install&Running.png)
 
-Deployed Website
+Deployed Static Website
+![alt text](10-final-website.png)
 
-![Website](screenshots/website.png)
 
 ---
 
