@@ -20,7 +20,8 @@ an AWS EC2 instance and make it accessible over the internet.
 
 🏗️ Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture](12-architecture.png.png
+)
 
 Architecture Flow
 
@@ -78,11 +79,11 @@ that the website was working correctly.
 
 EC2 Instance
 
-![EC2 Instance](screenshots/ec2-instance.png)
+![EC2 Instance](screenshots/01-ec2-instance.png)
 
 Security Group
 
-![Security Group](screenshots/security-group.png)
+![Security Group](screenshots/02-security-group.png)
 
 Nginx Status
 
